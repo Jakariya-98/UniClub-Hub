@@ -3,3 +3,5 @@
 <br>
 <h3><u>Description:</u></h3>
 <p>The UniClub-Hub is a web-based platform designed to manage university clubs efficiently and enhance communication between students and club administrators. The system allows students to apply for club membership using an online based form to apply into their favorite clubs, stay updated with club activities, get updates on any major club events and educational activities, collaborate with other members for various club activities, track their skills and interests. Students can also provide feedback for continuous improvement of the platform. Admin approval mechanisms ensure content quality, relevance and proper governance in respective clubs. The platform also helps the admins to track club activities and member engagement. It helps the student to report their respective admins to resolve various club and non-club related issues as well. Moreover, the platform creates opportunities for the students to display their projects and achievements to the university community. </p>
+<br>
+<h4><u>Problem Statement:</u></h4>
